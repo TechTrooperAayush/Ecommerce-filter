@@ -1,6 +1,4 @@
-# Save the README content to a Markdown file and provide it to the user.
 
-content = """
 # E-commerce Filter Function
 
 This project implements a filter functionality for an e-commerce website to help users filter clothes and electronics based on specific criteria. The functionality is created using **HTML**, **CSS**, and **JavaScript**.
